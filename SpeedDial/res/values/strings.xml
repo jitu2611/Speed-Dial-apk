@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpeedDial</string>
+    <string name="action_settings">SETTINGS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="HELP">HELP</string>
+    <string name="ADD">ADD</string>
+    <string name="SAVE">SAVE</string>
+    <string name="DISCARD">DISCARD</string>
+    <string name="ABOUTME">ABOUT ME</string>
+    <string name="icontact">IMPORT FROM CONTACT</string>
+    <string name="BACK">BACK</string>
+    <string name="Camera">CAMERA</string>
+    <string name="GALLERY">GALLERY</string>
+    
+
+</resources>
